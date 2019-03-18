@@ -6,6 +6,7 @@
  */module clients.classes.module {
     exports com.stachera.justyna.classes;
     exports com.stachera.justyna.enums;
+    exports com.stachera.justyna.dtos;
 
     opens com.stachera.justyna.classes to gson;
 }
