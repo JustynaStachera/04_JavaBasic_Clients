@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/clients-app-module/clients-app-module.iml" filepath="$PROJECT_DIR$/clients-app-module/clients-app-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clients-classes-module/clients-classes-module.iml" filepath="$PROJECT_DIR$/clients-classes-module/clients-classes-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clients-services-module/clients-services-module.iml" filepath="$PROJECT_DIR$/clients-services-module/clients-services-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gson-module/gson-module.iml" filepath="$PROJECT_DIR$/gson-module/gson-module.iml" />
+    </modules>
+  </component>
+</project>
